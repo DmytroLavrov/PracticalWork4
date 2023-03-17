@@ -1,0 +1,15 @@
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.csproj.AssemblyReference.cache
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.AssemblyInfoInputs.cache
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.AssemblyInfo.cs
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.csproj.CoreCompileInputs.cache
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/bin/Debug/net7.0/FirstTask
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/bin/Debug/net7.0/FirstTask.deps.json
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/bin/Debug/net7.0/FirstTask.runtimeconfig.json
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/bin/Debug/net7.0/FirstTask.dll
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/bin/Debug/net7.0/FirstTask.pdb
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.dll
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/obj/Debug/net7.0/refint/FirstTask.dll
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.pdb
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.genruntimeconfig.cache
+/Users/dmytrolavrov/Projects/PracticalWork4/FirstTask/FirstTask/obj/Debug/net7.0/ref/FirstTask.dll
