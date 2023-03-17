@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/FourthTask.csproj": {}
+  },
+  "projects": {
+    "/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/FourthTask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/FourthTask.csproj",
+        "projectName": "FourthTask",
+        "projectPath": "/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/FourthTask.csproj",
+        "packagesPath": "/Users/dmytrolavrov/.nuget/packages/",
+        "outputPath": "/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dmytrolavrov/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

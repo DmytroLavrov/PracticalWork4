@@ -1,0 +1,15 @@
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/Debug/net7.0/FourthTask.csproj.AssemblyReference.cache
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/Debug/net7.0/FourthTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/Debug/net7.0/FourthTask.AssemblyInfoInputs.cache
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/Debug/net7.0/FourthTask.AssemblyInfo.cs
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/Debug/net7.0/FourthTask.csproj.CoreCompileInputs.cache
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/bin/Debug/net7.0/FourthTask
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/bin/Debug/net7.0/FourthTask.deps.json
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/bin/Debug/net7.0/FourthTask.runtimeconfig.json
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/bin/Debug/net7.0/FourthTask.dll
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/bin/Debug/net7.0/FourthTask.pdb
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/Debug/net7.0/FourthTask.dll
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/Debug/net7.0/refint/FourthTask.dll
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/Debug/net7.0/FourthTask.pdb
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/Debug/net7.0/FourthTask.genruntimeconfig.cache
+/Users/dmytrolavrov/Projects/PracticalWork4/FourthTask/FourthTask/obj/Debug/net7.0/ref/FourthTask.dll
